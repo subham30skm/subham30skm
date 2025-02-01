@@ -1,5 +1,5 @@
 👋 Hi, I’m Subham Kumar Mohapatra  
-🎓 I’m a Computer Science and Engineering graduate (Batch 2023)  
+🎓 I’m a Computer Science and Engineering graduate (Batch 2019-2023)  
 👀 I’m interested in working with software development and backend technologies  
 🌱 I’m currently learning Node.js, Django, and MongoDB  
 💻 I have completed a Python Full Stack Development course at QSpiders Bhubaneswar
